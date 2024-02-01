@@ -4,6 +4,8 @@ Boilerplate for the 03-AR-Database/03-ActiveRecord-Basics/01_sinatra_activerecor
 
 Please refer to the livecode guidelines to use it.
 
+**Recuerde descargarlo en una carpeta diferente a Full Stack Challenges**
+
 Despues de descargarlo execute
 
 ```
